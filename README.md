@@ -98,14 +98,3 @@ Open your browser at [http://localhost:3000](http://localhost:3000)
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you'd also like:
-- A matching `LICENSE` file
-- A `CONTRIBUTING.md` template
-- Or badges for deployment, build, or coverage
-
-Happy to help polish it further!
-```
